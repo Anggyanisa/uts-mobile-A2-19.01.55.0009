@@ -24,7 +24,8 @@ Berikut saya lampirkan screenshot aplikasi
 
 Layout 1 "Splash Screen"
 <br>
-![Screenshot_2021-11-06-19-17-51-73](https://user-images.githubusercontent.com/22116905/140607268-8b92a0ce-9eb8-4511-a934-b843b1ca2606.png)
+
+![Screenshot_2021-11-06-19-17-40-94](https://user-images.githubusercontent.com/22116905/140607429-3a1b2e34-04ff-4b82-ac81-33d6494107e1.png)
 <br>
 
 Layout 2 "FORM PENJUALAN SEBELUM KLIK BUTTON HITUNG"
